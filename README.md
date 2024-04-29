@@ -23,3 +23,8 @@ WIFI card - Fenvi T-919
 Graphics - XFX RX570
 ![image](https://github.com/williamcorney/ga-a320m-s2h-efi/assets/118494245/a0e092df-94c6-4bd0-ad5e-3afdcad87cf4)
 
+DO not use FV-HB1200 !!  Card is recognised but is the cause of random kernel panics / bluetooth dropouts
+
+Avoid using the lower two USB ports at rear of case - causes stability problems
+
+The top two and front ports seems ok 
